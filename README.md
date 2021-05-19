@@ -10,7 +10,7 @@
   Focused on using software to make people happy and be helpful for the community. 
 </p>
 
-## My Tech Stack
+## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)
