@@ -1,4 +1,4 @@
-<img src="https://github.com/STHEe/STHEe/blob/main/EuEoBill.png" />
+<img alt="obvio que é fake né, manda dm Bill saudades" src="https://github.com/STHEe/STHEe/blob/main/EuEoBill.png" />
 
 ### Hi there My Name is Vitor.👋        ![followers](https://img.shields.io/github/followers/STHEe?style=social)
 
