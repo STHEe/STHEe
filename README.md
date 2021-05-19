@@ -2,8 +2,7 @@
 
 <p>
   
-  ![alt text](http://www.odtecnologia.com.br/img/od_tp.png "ODTecnologia")
-  
+  <img src="http://www.odtecnologia.com.br/img/od_tp.png" width="200" />
   <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="100" />
   
   I am 21 years old and currently work as software engineer at [OD Tecnologia] full time improving [WebDecisor]. 
