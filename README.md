@@ -2,7 +2,7 @@
 
 
 <p>
-  I currently work as software engineer at [OD Tecnologia]. <br />
+  I currently work as software engineer at [OD Tecnologia]. 
   <a href="http://www.odtecnologia.com.br/">
     <img 
         width="349px"
@@ -10,7 +10,7 @@
         src="http://www.odtecnologia.com.br/img/od_tp.png" 
     />
   </a>  <br />
-  Born in Campos Altos, Brasil. Most of school made in Belgium and currently in my last year of college at UNIARAXÁ. <br />
+  Born in Araxá, Brasil. Most of school made in Belgium and currently in my last year of college at UNIARAXÁ. <br />
   Focused on using software to make people happy and been helpful for the community. 
 </p>
 
