@@ -1,6 +1,8 @@
 ### Hi there My Name is Vitor.👋
 
 
+![followers](https://img.shields.io/github/followers/STHEe?style=social)
+
 <p>
   
   ![alt text](http://www.odtecnologia.com.br/img/od_tp.png "ODTecnologia")
