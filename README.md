@@ -3,10 +3,10 @@
 
 <p>
   I currently work as software engineer at [OD Tecnologia]. 
-  <a href="http://www.odtecnologia.com.br/">
+  <a href="http://www.odtecnologia.com.br/" target="_blank">
     <img 
-        width="349px"
-        height="158px"         
+        width="117px"
+        height="53px"         
         src="http://www.odtecnologia.com.br/img/od_tp.png" 
     />
   </a>  <br />
