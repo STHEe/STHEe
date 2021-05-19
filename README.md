@@ -3,13 +3,7 @@
 
 <p>
   I currently work as software engineer at [OD Tecnologia]. 
-  <a href="http://www.odtecnologia.com.br/" target="_blank">
-    <img 
-        width="117px"
-        height="53px"         
-        src="http://www.odtecnologia.com.br/img/od_tp.png" 
-    />
-  </a>  <br />
+  ![alt text](http://www.odtecnologia.com.br/img/od_tp.png "ODTecnologia")
   Born in Araxá, Brasil. Most of school made in Belgium and currently in my last year of college at UNIARAXÁ. <br />
   Focused on using software to make people happy and been helpful for the community. 
 </p>
@@ -51,6 +45,5 @@
 <a href="mailto:vitor.ferreira@oraculodecisor.com">
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 
 
