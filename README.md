@@ -3,7 +3,7 @@
 <p>
   
   ![alt text](http://www.odtecnologia.com.br/img/od_tp.png "ODTecnologia")
-  ![alt text](https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png "WebDecisor")
+  ![alt text](https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png "WebDecisor" =100x200)
   
   
   I am 21 years old and currently work as software engineer at [OD Tecnologia] full time improving [WebDecisor]. 
