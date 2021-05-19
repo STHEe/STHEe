@@ -1,7 +1,4 @@
-### Hi there My Name is Vitor.👋
-
-
-![followers](https://img.shields.io/github/followers/STHEe?style=social)
+### Hi there My Name is Vitor.👋        ![followers](https://img.shields.io/github/followers/STHEe?style=social)
 
 <p>
   
@@ -44,6 +41,7 @@
 -->
 
 ## Reach Me
+<div style="display: flex; flex-direction: row">
 <a href="https://www.linkedin.com/in/vitor-henrique-costa-ferreira-8a5b93164/">
 
   ![Linkedin](https://shields.io/badge/Linkedin--lightgrey?logo=linkedin&style=social)
@@ -54,5 +52,6 @@
   ![Email](https://shields.io/badge/Gmail--lightgrey?logo=gmail&style=social)
 
 </a>
+</div>
 
 
