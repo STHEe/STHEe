@@ -8,7 +8,7 @@
   
   I currently work as software engineer at [OD Tecnologia]. 
   Born in Araxá, Brasil. Most of school made in Belgium and currently in my last year of college at UNIARAXÁ. <br />
-  Focused on using software to make people happy and been helpful for the community. 
+  Focused on using software to make people happy and be helpful for the community. 
 </p>
 
 ## My Tech Stack
