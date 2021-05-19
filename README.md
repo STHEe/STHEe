@@ -43,10 +43,10 @@
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/vitor-henrique-costa-ferreira-8a5b93164/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  ![Linkedin](https://shields.io/badge/Linkedin--lightgrey?logo=linkedin&style=social)
 </a>
 <a href="mailto:vitor.ferreira@oraculodecisor.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  ![Email](https://shields.io/badge/Gmail--lightgrey?logo=gmail&style=social)
 </a>
 
 
