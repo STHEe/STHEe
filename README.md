@@ -23,14 +23,18 @@
 ![C#](https://img.shields.io/badge/-CSharp-%232c3e50?style=flat-square&logo=C%20Sharp)
 ![C](https://img.shields.io/badge/-C-%232c3e50?style=flat-square&logo=C)
 
+![ReactNative](https://img.shields.io/badge/-React%20Native-%232c3e50?style=flat-square&logo=react)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=Expressjs)
+![Cordova](https://img.shields.io/badge/-Cordova-%232c3e50?style=flat-square&logo=apachecordova)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-%232c3e50?style=flat-square&logo=react)
 ![Ionic](https://img.shields.io/badge/-Ionic-%232c3e50?style=flat-square&logo=ionic)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=flat-square&logo=css3)
 
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-%232c3e50?style=flat-square&logo=elasticsearch)
+![MicrosftAzure](https://img.shields.io/badge/-Microsft%20Azure-%232c3e50?style=flat-square&logo=azuredevops)
 ![SqlServer](https://img.shields.io/badge/-SQLServer-%232c3e50?style=flat-square&logo=SQLServer)
 ![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
