@@ -43,14 +43,14 @@
 -->
 
 ## &#x1f4c8; GitHub Stats
-<div style="display: flex; flex-direction: row; justify-content: space-between ">
-  <a href="https://github.com/STHEe/STHEe">
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/STHEe/STHEe" style="margin: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STHEe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
-  <a href="https://github.com/STHEe/STHEe">
+  <a href="https://github.com/STHEe/STHEe" style="margin: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=STHEe&show_icons=true&line_height=29&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vitor's GitHub Stats" />
   </a>
-  <a href="https://app.daily.dev/STHEe">
+  <a href="https://app.daily.dev/STHEe" style="margin: 10px">
     <img align="center" src="https://api.daily.dev/devcards/3d1ec9cab7854556a8d0d6bde16f791f.png?r=j1h" width="300" alt="Vitor Henrique's Dev Card"/>
   </a>
 </div>
