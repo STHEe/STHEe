@@ -7,7 +7,7 @@
   <img src="http://www.odtecnologia.com.br/img/od_tp.png" width="200" />
   <img src="https://www.webdecisor.com.br/assets/img/wd_logo_marca_t.png" width="100" />
   
-  I am 21 years old and currently work as software engineer at [OD Tecnologia] full time improving [WebDecisor]. 
+  I am 22 years old and currently work as software engineer at [OD Tecnologia] full time improving [WebDecisor]. 
   Born in Araxá, Brasil. Most of school made in Belgium and currently in my last year of college at UNIARAXÁ. <br />
   Focused on using software to make people happy and be helpful for the community. 
 </p>
