@@ -13,7 +13,7 @@ be helpful for the community.</h3>
   
 - 💬 Ask me about **react, C#, AspNet**  
   
-- 📫 How to reach me **vitor.ferreira@oraculodecisor.com.br**  
+- 📫 How to reach me **vitor.ferreira@webdecisor.com.br**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
