@@ -9,7 +9,7 @@ be helpful for the community.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorcostaferreira" alt="vitorcostaferreira" /></a> </p>  
   
-- 🔭 I’m currently working on **webdecisor**  
+- 🔭 I’m currently working on **STONERIDGE**  
   
 - 💬 Ask me about **react, C#, AspNet**  
   
