@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vitor Henrique</h1>  
-<img alt="obvio que é fake né, manda dm Bill saudades" src="https://github.com/STHEe/STHEe/blob/main/EuEoBill.webp" />
+
 <h3 align="center">I am 22 years old and currently work as software engineer. Born in Araxá, Brasil. Most of school made in Belgium. Focused on using software to make people happy and 
 be helpful for the community.</h3>  
   <a href="https://app.daily.dev/STHEe" style="margin: 10px">
