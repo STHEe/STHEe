@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vitor Henrique</h1>  
 
-<h3 align="center">I am 22 years old and currently work as software engineer. Born in Araxá, Brasil. Most of school made in Belgium. Focused on using software to make people happy and 
-be helpful for the community.</h3>  
   <a href="https://app.daily.dev/STHEe" style="margin: 10px">
     <img align="center" src="https://api.daily.dev/devcards/3d1ec9cab7854556a8d0d6bde16f791f.png?r=j1h" width="300" alt="Vitor Henrique's Dev Card"/>
  </a>
