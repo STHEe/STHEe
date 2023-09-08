@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vitor Henrique</h1>  
 
-  <a href="https://app.daily.dev/STHEe" style="margin: 10px">
-    <img align="center" src="https://api.daily.dev/devcards/3d1ec9cab7854556a8d0d6bde16f791f.png?r=j1h" width="300" alt="Vitor Henrique's Dev Card"/>
- </a>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorcostaferreira" alt="vitorcostaferreira" /></a> </p>  
   
 - 🔭 I’m currently working on **STONERIDGE**  
